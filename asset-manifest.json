@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/netlixClone/static/css/main.2d79a77c.chunk.css",
-    "main.js": "/netlixClone/static/js/main.a0074a5c.chunk.js",
-    "main.js.map": "/netlixClone/static/js/main.a0074a5c.chunk.js.map",
+    "main.js": "/netlixClone/static/js/main.d25e07f0.chunk.js",
+    "main.js.map": "/netlixClone/static/js/main.d25e07f0.chunk.js.map",
     "runtime-main.js": "/netlixClone/static/js/runtime-main.1c3151e1.js",
     "runtime-main.js.map": "/netlixClone/static/js/runtime-main.1c3151e1.js.map",
     "static/js/2.0c77dc9b.chunk.js": "/netlixClone/static/js/2.0c77dc9b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1c3151e1.js",
     "static/js/2.0c77dc9b.chunk.js",
     "static/css/main.2d79a77c.chunk.css",
-    "static/js/main.a0074a5c.chunk.js"
+    "static/js/main.d25e07f0.chunk.js"
   ]
 }
